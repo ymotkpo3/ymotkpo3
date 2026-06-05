@@ -5,8 +5,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://komarev.com/ghpvc/?username=ymotkpo3)
 
-
-
 Computer Science student at the University of Buenos Aires (UBA).
 
 I enjoy exploring and building projects that combine software, electronics, and design, from embedded systems and desktop applications to 3D-printed hardware.
@@ -21,12 +19,11 @@ I enjoy exploring and building projects that combine software, electronics, and 
 ### Interests
 - 💻 Software development
 - 🔌 Embedded systems
-- 📷 Photography
+- 📷 [Photography]((https://www.instagram.com/tomitografo/))
 - 🎲 Board game design
 - 🖨️ 3D printing
 
 ### Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tomas-delgado-haupt)
 
-[![Instagram](https://img.shields.io/badge/Photography_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tomitografo/)
+
