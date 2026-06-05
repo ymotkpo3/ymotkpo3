@@ -11,7 +11,6 @@ I enjoy exploring and building projects that combine software, electronics, and 
 
 ### Currently working on
 - [Megaknob](https://github.com/ymotkpo3/megaknob) — A minimalist USB volume controller for Windows.
-- [Saw player]() - A local music player made with [Tauri](https://v2.tauri.app/es/)
 
 ### Currently learning
 - 🌱 Hardware-software communication
