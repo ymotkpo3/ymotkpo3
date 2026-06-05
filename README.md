@@ -10,7 +10,8 @@ Computer Science student at the University of Buenos Aires (UBA).
 I enjoy exploring and building projects that combine software, electronics, and design, from embedded systems and desktop applications to 3D-printed hardware.
 
 ### Currently working on
-- 🔭 [Megaknob](https://github.com/ymotkpo3/megaknob) — A minimalist USB volume controller for Windows.
+- [Megaknob](https://github.com/ymotkpo3/megaknob) — A minimalist USB volume controller for Windows.
+- [Saw player]() - A local music player made with [Tauri](https://v2.tauri.app/es/)
 
 ### Currently learning
 - 🌱 Hardware-software communication
