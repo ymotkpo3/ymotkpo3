@@ -19,7 +19,7 @@ I enjoy exploring and building projects that combine software, electronics, and 
 ### Interests
 - 💻 Software development
 - 🔌 Embedded systems
-- 📷 [Photography]((https://www.instagram.com/tomitografo/))
+- 📷 ![Photography]((https://www.instagram.com/tomitografo/))
 - 🎲 Board game design
 - 🖨️ 3D printing
 
