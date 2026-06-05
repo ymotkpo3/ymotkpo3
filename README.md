@@ -8,7 +8,7 @@
 </p>
 
 
-Electromechanical Technician and computer sience student.
+Electromechanical Technician and Computer Science student.
 
 I enjoy exploring and building projects that combine software, electronics, and design, from embedded systems and desktop applications to 3D-printed hardware.
 
