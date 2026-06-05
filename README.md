@@ -7,10 +7,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-
+<p align="center">
 Electromechanical Technician and Computer Science student.
+</p>
 
-I enjoy exploring and building projects that combine software, electronics, and design, from embedded systems and desktop applications to 3D-printed hardware.
+<p align="center">
+I enjoy building projects that combine software, electronics, and design.
+</p>
 
 ### Currently working on
 - [Megaknob](https://github.com/ymotkpo3/megaknob) — A minimalist USB volume controller for Windows.
